@@ -15,6 +15,6 @@ There are many ways to format the date
 * 01/01/2018
 * 01-01-2018 (prefered) -- this will be the format I'll be using. 
 
-For sanity: The format I will using is 01-01-2018  
+For sanity: The format I will using is 01-01-2018 (DD-MM-YYYY)
 
 ** This is a living document and may change any any time. 
