@@ -3,7 +3,7 @@
 Personal goals for accountability!
 
 Now, I am not really one to keeping a log of what I wish to achieve, therefore, I'm not going to log each week
-the various tasks and goals I have in mind. Rest Assured that I do have a plan. Me thinks it would be more fun to let it be self-unleashed. That said, I shall endeavor to do a post hindsight debrief, if time allows. What would that look like? Basically, that which you'll see would be what I'd have already done and later make a list and check them off as they are already completed, since hindsight is 20/20 and this is 20/18, maybe I shall work up to a forward looking tasks list, that I shall reveal as I plan ahead and conversely, put on display what I have not (yet) gotten around to, and will therefore shift the items which shall be respectively added to the list for the next and upcoming weeks.
+the various tasks and goals I have in mind. Rest Assured that I do have a plan. Me thinks it would be more fun to let it be self-unleashed. That said, I shall endeavor to do a post hindsight debrief, if time allows. What would that look like? Basically, that which you'll see would be what I'd have already done and later make a list and check them off as they are already completed, since hindsight is 20/20 and this is 20-18, maybe I shall work up to a forward looking tasks list, that I shall reveal as I plan ahead and conversely, put on display what I have not (yet) gotten around to, and will therefore shift the items which shall be respectively added to the list for the next and upcoming weeks.
 
 * **[History 👵👴](history.md#history)**
 
