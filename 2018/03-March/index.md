@@ -1,9 +1,9 @@
 # Table of Contents
 
 
-|   Status    |   Mood      |   Date ( Year: 2018)     |   Link                           |
-| :---------: | :---------- | :----------------------- | :------------------------------: |
-|   Pending      | :notebook:    | [March 01]             |  [01-03-2018.md](01-03-2018.md)  |
+|   Status    |   Mood      |   Date ( Year: 2018)   |   Link                           |
+| :---------: | :---------- | :--------------------- | :------------------------------: |
+|   Pending   | :notebook:  | [March 01]             |  [01-03-2018.md](01-03-2018.md)  |
 |   Pending   | :notebook:  | [March 02]             |  [02-03-2018.md](02-03-2018.md)  |
 |   Pending   | :notebook:  | [March 03]             |  [03-03-2018.md](03-03-2018.md)  |
 |   Pending   | :notebook:  | [March 04]             |  [04-03-2018.md](04-03-2018.md)  |
