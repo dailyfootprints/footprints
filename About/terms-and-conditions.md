@@ -23,3 +23,25 @@ NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE MANA
 ### Limitations of Liability and Damages
 
 YOU AGREE THAT DANIEL LIM & THE MANAGEMENT TEAM’S LEGAL LIABILITY, INCLUDING THE LIABILITY OF ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES OR AGENTS, FOR ANY CLAIM MADE BY YOU ARISING OUT OF YOUR USE OF THE WEBSITE / GITHUB REPO OR PURCHASE OF PRODUCTS OR SERVICES OFFERED THEREON SHALL BE LIMITED TO THE AMOUNT YOU PAID TO MANAGEMENT TEAM, UNDER NO CIRCUMSTANCES WILL SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES BE AWARDED, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+** Downloading of any content, forfeits your right to request for a refund.
+
+#### Compliance With Laws
+
+You agree to comply with all applicable federal, state and local laws, regulations, rules and ordinances regarding your use of the Website / GitHub Repo, including, without limitation, laws regarding import/export of technical data by virtue of your online transmission.
+
+
+#### Indemnity
+
+You agree to defend, indemnify and hold Management, its affiliates, officers, subsidiaries, affiliates, successors, assigns, directors, officers, agents, service providers, attorneys, suppliers and employees, harmless from any claim or demand, including reasonable attorneys' fees and court costs, made by any third party due to or arising out of your use of the Website or our Products and Services, your violation of the Terms, or your breach of any of your acknowledgements, agreements, representations, warranties and obligations herein.  
+
+
+YOU ACKNOWLEDGE THAT MANAGEMENT HAS SET ITS PRICES AND HAS PROVIDED ACCESS TO THE WEBSITE IN RELIANCE ON THESE LIMITATIONS OF LIABILITY AND DAMAGES AND THE INDEMNITY IN THESE TERMS, AND THAT THOSE LIMITATIONS ARE AN ESSENTIAL BASIS UPON WHICH COMPANY PROVIDES ITS WEBSITE AND OFFERS ITS PRODUCTS AND SERVICES.  YOU AGREE THAT THE LIMITATIONS OF LIABILITY AND DAMAGES AND THE INDEMNITY IN THESE TERMS SURVIVE AND APPLY EVEN IF FOUND TO HAVE FAILED OF THEIR ESSENTIAL PURPOSE. 
+
+#### Links to Third Party Sites
+
+The Website / GITHUB REPO. may link to other websites that are independent of Company. These links are provided only as a convenience. 
+
+We make no representation or warranty as to the accuracy, completeness or authenticity of the information contained in, or the products or services provided or sold by, any such site. You visit any such website at your own risk.  You agree that Company is not responsible for any loss or damage of any sort you may incur from dealing with such third party website(s).
+
+This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT /endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc. 
