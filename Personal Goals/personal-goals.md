@@ -21,8 +21,9 @@ distracted by the next new shiny]
 * [ ] Finish [es6.io](https://es6.io)
 * [ ] Finish [JavaScript 30](https://javascript30.com/)
 * [ ] Take & Finish 100 Online Courses (see List Below)
-    - [] Course # 1:  
-    - [] Course # 1: 
+    - [ ] Course # 1: + Links
+    - [ ] Course # 2: + Links 
+    - [ ] Course # 3: + Links
 
 - [ ] 1. Relationships
 - [ ] 2. Social Media
