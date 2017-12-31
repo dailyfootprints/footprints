@@ -8,4 +8,6 @@ The Daniel Lim Projects, and Daniel Lim individually, are not responsible for yo
 
 The Daniel Lim Projects, including Daniel Lim personally, may receive compensation for products and services they recommend to you. Daniel Lim personally uses a recommended resource unless it states otherwise. If you do not want the Daniel Lim Projects and Daniel Lim to be compensated for a recommendation, then we advise that you search online for the item through a non-affiliate link.
 
-Do you have questions about any of the Daniel Lim Projects? Are you wondering if the Projects will work for you? Give us a call at 800-604-2587. We will be happy to discuss your goals and how the Daniel Lim Projects may help you. 
+Do you have questions about any of the Daniel Lim Projects? Are you wondering if the Projects will work for you? Give us a call. We will be happy to discuss your goals and how the Daniel Lim Projects may help you. 
+
+Thank You!
