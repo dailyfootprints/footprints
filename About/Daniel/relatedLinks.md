@@ -1,6 +1,8 @@
 # Related Website and Links
 
-- [ ] [MemberClouds Internation Entrepreneurs Community](https://international-entrepreneurship.teachable.com/)
+- [ ] [MemberClouds International Entrepreneurs Community](https://international-entrepreneurship.teachable.com/)
+    - [About / Intro](https://www.linkedin.com/pulse/whatsapp-group-entrepreneurs-daniel-lim/)
+    - [Public Launch](https://www.linkedin.com/pulse/public-launch-memberclouds-international-daniel-lim/)
 
 ## MemberClouds (Project Hub)
 
