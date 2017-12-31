@@ -3,7 +3,7 @@
 
 |   Status    |   Mood      |   Date ( Year: 2018)     |   Link                           |
 | :---------: | :---------- | :----------------------- | :------------------------------: |
-|   DONE      | :fireworks: | [January 01]             |  [01-01-2018.md](01-01-2018.md)  |
+|   DONE      | :muscle:    | [January 01]             |  [01-01-2018.md](01-01-2018.md)  |
 |   Pending   | :notebook:  | [January 02]             |  [02-01-2018.md](02-01-2018.md)  |
 |   Pending   | :notebook:  | [January 03]             |  [02-01-2018.md](03-01-2018.md)  |
 |   Pending   | :notebook:  | [January 04]             |  [02-01-2018.md](04-01-2018.md)  |
