@@ -13,3 +13,5 @@ Earn & Claim your share of DASH, DOGE, LTC & [BTC](https://goo.gl/6Mo51k) here: 
 
 
 
+Just found out about this: https://pool.viabtc.com/tools/txaccelerator/
+Pretty Cool, eh?
