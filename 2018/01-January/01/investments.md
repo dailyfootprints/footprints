@@ -13,8 +13,9 @@ Earn & Claim your share of DASH, DOGE, LTC & [BTC](https://goo.gl/6Mo51k) here: 
 Other Coins I am currently researching.
 
 TRX = TRON = https://tron.network/en.html
-0x = https://0xproject.com/
+MOON COIN = https://www.mooncoin.eco/
+WANCHAIN = https://wanchain.org/
 XRP = https://ripple.com/xrp/
-WAN = https://wanchain.org/
-MOON = https://www.mooncoin.eco/
+0x = https://0xproject.com/
+
 
