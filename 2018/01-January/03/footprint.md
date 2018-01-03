@@ -1,5 +1,4 @@
-# Daily FootPrints
-
+# Daily FootPrints -- Day #3
 
 ## 1. Blog (http://deardanielim.info)
 * [x] **Link**: [[Day #3] Daily Footprints & Other Projects](http://deardanielim.info/day-3-introducing-the-daily-footprints-project/)
@@ -20,8 +19,9 @@ a. [x] **MCIE Only**
     * [ ] [Private - Members Only](https://international-entrepreneurship.teachable.com/courses/210548/lectures/4110691)
     * [ ] Shared
 
-
-
+## 4. Watched: 
+* [x] Movie:
+    * [x] Exposed (2016) w/ Keanu Reeves ... as Detective Galban
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
