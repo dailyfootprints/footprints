@@ -16,13 +16,13 @@
     * [ ] ...
 
 ## 5. Code 
-    - [ ] FCC
-    - [ ] Work
-    - [ ] Other Projects
+- [ ] FCC
+- [ ] Work
+- [x] Other Projects
 
 ## 6. GitHub Post
-    - [x] Goal: Min. 1 / day
-    - [x] Links to pull?
+- [x] Goal: Min. 1 / day
+- [x] Links to pull - Done
 
 ---
 
