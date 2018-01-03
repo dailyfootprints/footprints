@@ -25,13 +25,13 @@ a. [x] **MCIE Only**
 
 
 ## 5. Code 
-    - [ ] FCC
-    - [ ] Work
-    - [ ] Other Projects
+- [ ] FCC
+- [ ] Work
+- [ ] Other Projects
 
 ## 6. GitHub Post
-    - [x] Goal: Min. 1 / day
-    - [x] Links to pull - Done
+- [x] Goal: Min. 1 / day
+- [x] Links to pull - Done
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
