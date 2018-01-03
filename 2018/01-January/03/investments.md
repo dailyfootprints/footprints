@@ -11,11 +11,11 @@ Earn & Claim your share of DASH, DOGE, LTC & [BTC](https://goo.gl/6Mo51k) here: 
 
 ## Other Coins I am currently researching
 
-[ELIX](https://coinmarketcap.com/currencies/elixir/)
-[Dragonchain (DRGN)](https://coinmarketcap.com/currencies/dragonchain/)
-DR
-LALAToken (LA) = https://coinmarketcap.com/currencies/latoken/
-DeepBrain Chain (DBC) = https://coinmarketcap.com/currencies/deepbrain-chain/
+* [ELIX](https://coinmarketcap.com/currencies/elixir/)
+* [Dragonchain (DRGN)](https://coinmarketcap.com/currencies/dragonchain/)
+* [Dragon TokenDRG](https://drgtoken.io/)
+* [LALAToken (LA)](https://coinmarketcap.com/currencies/latoken/)
+* [DeepBrain Chain (DBC)](https://coinmarketcap.com/currencies/deepbrain-chain/)
 
 
 Just found out about this: https://pool.viabtc.com/tools/txaccelerator/
