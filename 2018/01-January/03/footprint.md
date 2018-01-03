@@ -23,7 +23,6 @@ a. [x] **MCIE Only**
 * [x] Movie:
     * [x] Exposed (2016) w/ Keanu Reeves ... as Detective Galban
 
-
 ## 5. Code 
 - [ ] FCC
 - [ ] Work

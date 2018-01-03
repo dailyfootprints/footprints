@@ -19,6 +19,15 @@ a. [x] **MCIE Only**
     * [x] [Private - Members Only](https://international-entrepreneurship.teachable.com/courses/210548/lectures/4106779)
     * [x] Shared
 
+b. [x] DearDanielim
+* [x] **Link**: http://deardanielim.info/new-year-new-you-new-resolutions/
+* [x] **Public** - Anyone who visits my website: [deardanielim](http://deardanielim.info)
+* [x] **Shared**:
+    * [x] **Facebook Page**: [DearDanielim](https://www.facebook.com/deardanielim/)
+    * [ ]
+    * [ ]
+    * [ ]   
+
 ## 4. Watched: 
 * Movie:
     * Exposed (2016) w/ Keanu Reeves ... as Detective Galban
@@ -31,6 +40,20 @@ a. [x] **MCIE Only**
 ## 6. GitHub Post
     - [x] Goal: Min. 1 /day
     - [x] Links to pull?
+
+## 7. 
+
+## 8. Social Media: 
+    * [ ] Facebook:
+    * [ ] Twitter:
+    * [ ] Linkedin:
+    * [ ] Live.me
+    * [ ] Musical.ly
+    * [ ] Insta:     
+    * [ ] Snap:
+    * [ ] Tumblr:
+    * [ ] Google+
+    
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
