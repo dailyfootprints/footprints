@@ -15,6 +15,14 @@
 * [ ] Movie?
     * [ ] ...
 
+## 5. Code 
+    - [ ] FCC
+    - [ ] Work
+    - [ ] Other Projects
+
+## 6. GitHub Post
+    - [x] Goal: Min. 1 / day
+    - [x] Links to pull?
 
 ---
 

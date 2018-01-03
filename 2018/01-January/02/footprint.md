@@ -19,10 +19,18 @@ a. [x] **MCIE Only**
     * [x] [Private - Members Only](https://international-entrepreneurship.teachable.com/courses/210548/lectures/4106779)
     * [x] Shared
 
-### Watched: 
+## 4. Watched: 
 * Movie:
     * Exposed (2016) w/ Keanu Reeves ... as Detective Galban
 
+## 5. Code 
+    - [ ] FCC
+    - [ ] Work
+    - [ ] Other Projects
+
+## 6. GitHub Post
+    - [x] Goal: Min. 1 /day
+    - [x] Links to pull?
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
