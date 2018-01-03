@@ -35,6 +35,9 @@ a. [x] **MCIE Only**
 - [ ] Sample
 - [ ] Example
 
+#### Notes:
+
+* Formatting is a pain
 
 ---
 

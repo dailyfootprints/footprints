@@ -34,7 +34,9 @@ a. [x] **MCIE Only**
 - [ ] Sample
 - [ ] Example
 
+#### Notes:
 
+* This is already beginning to be a chore. I will start to op. and miniz. this. Soon!
 
 ---
 
