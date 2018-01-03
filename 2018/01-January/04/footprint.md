@@ -1,4 +1,4 @@
-# Daily FootPrints
+# Daily FootPrints -- Day #4
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
@@ -11,4 +11,19 @@
 - [ ] Sample
 - [ ] Example
 
+## 4. Watched: 
+* [ ] Movie?
+    * [ ] ...
 
+## 5. Code 
+- [ ] FCC
+- [ ] Work
+- [x] Other Projects
+
+## 6. GitHub Post
+- [x] Goal: Min. 1 / day
+- [x] Links to pull - Done
+
+---
+
+ref: 02-01-2018
