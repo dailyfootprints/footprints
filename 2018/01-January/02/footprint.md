@@ -33,27 +33,27 @@ b. [x] DearDanielim
     * Exposed (2016) w/ Keanu Reeves ... as Detective Galban
 
 ## 5. Code 
-    - [ ] FCC
-    - [ ] Work
-    - [ ] Other Projects
+- [ ] FCC
+- [ ] Work
+- [ ] Other Projects
 
 ## 6. GitHub Post
-    - [x] Goal: Min. 1 /day
-    - [x] Links to pull?
+- [x] Goal: Min. 1 /day
+- [x] Links to pull?
 
 ## 7. 
 
 ## 8. Social Media: 
-    * [ ] Facebook:
-    * [ ] Twitter:
-    * [ ] Linkedin:
-    * [ ] Live.me
-    * [ ] Musical.ly
-    * [ ] Insta:     
-    * [ ] Snap:
-    * [ ] Tumblr:
-    * [ ] Google+
-    
+* [ ] Facebook:
+* [ ] Twitter:
+* [ ] Linkedin:
+* [ ] Live.me
+* [ ] Musical.ly
+* [ ] Insta:     
+* [ ] Snap:
+* [ ] Tumblr:
+* [ ] Google+
+
 
 #### Checklist:
 <!-- Go over all ideas, goals, plans, mission, vision, + other points below, and after creating the PR, tick the checkboxes that apply. -->
