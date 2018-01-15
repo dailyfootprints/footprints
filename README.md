@@ -20,4 +20,4 @@ MIT. Take, adapt, use. A link back to this repo is appreciated.
 
 ## To Donate to the Footprints Project:
 
-Bitcoing (BTC): 1GAy68mK2n74deqFsm1cGQZM8LbjdrfHdF
+**Bitcoing (BTC)**: `1GAy68mK2n74deqFsm1cGQZM8LbjdrfHdF`
